@@ -1,6 +1,6 @@
 ### Salve, sou o Gheno 👋
 
-- 👨‍💻 Estudando JavaScript
+- 👨‍💻 Estudando JavaScript, html, css e outros
 
 <div align="center">
   <a href="https://github.com/Ghenoo">
