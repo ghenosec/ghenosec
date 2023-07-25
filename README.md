@@ -14,8 +14,4 @@
   <img align="center" alt= Gno-Html5 heigh="30" width= "40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   </div>
   
-  #
-  
-  
-  ![Snake animation](https://github.com/ghenoo/Ghenoo/blob/output/github-contribution-grid-snake.svg)
 </div>
