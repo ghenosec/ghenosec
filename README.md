@@ -10,6 +10,7 @@
   <img align="center" alt="Gno-Node" heigh="30" width= "40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Gno-MongoDB" heigh="30" width= "40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Gno-Exppress" heigh="30" width= "40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
+  <img align="center" alt="Gno-Discord.js" height="30" width= "40" src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg">
   </div>
   
 </div>
