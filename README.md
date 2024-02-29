@@ -1,6 +1,6 @@
 ### Salve, sou o Gheno 👋
 
-- 👨‍💻
+  👨‍💻
 - Me chamo Lucas, atualmente estou no 5° Período de Engenharia de Software na FAG, em Cascavel PR.
 - Tenho como meta me tornar um desenvolvedor backend, possuo foco em GO, node, e mongoDB.
 
