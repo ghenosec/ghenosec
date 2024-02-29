@@ -6,11 +6,10 @@
   <a href="https://github.com/Ghenoo">
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gno-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gno-Node" heigh="30" width= "40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Gno-MongoDB" heigh="30" width= "40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Gno-Exppress" heigh="30" width= "40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
-  <img align="center" alt="Gno-Discord.js" height="30" width= "40" src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg">
+  <img align="center" alt="Gno-Godot" heigh="30" width= "40" src="hhttps://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg">
+  <img align="center" alt="Gno-Go" height="30" width= "40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
   </div>
   
 </div>
