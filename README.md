@@ -11,6 +11,7 @@
   <img align="center" alt="Gno-Node" heigh="30" width= "40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Gno-MongoDB" heigh="30" width= "40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Gno-Go" height="30" width= "40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
+  <img align="center" alt="Gno-sqlite" height="30" width= "40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"
   </div>
   
 </div>
