@@ -8,8 +8,8 @@
   <a href="https://github.com/Ghenoo">
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gno-Go" height="30" width= "40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
-  <img align="center" alt="Gno-Mongo" height="30" width= "40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg">
+  <img align="center" alt="Gno-Go" height="50" width= "50" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
+  <img align="center" alt="Gno-Mongo" height="50" width= "50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg">
   </div>
   
 </div>
