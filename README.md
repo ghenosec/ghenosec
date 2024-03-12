@@ -10,7 +10,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Gno-Go" height="50" width= "50" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
   <img align="center" alt="Gno-Mongo" height="50" width= "50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg">
-  <img align="center" alt="Gno-docker" height="50" width= "50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
+  <img align="center" alt="Gno-docker" height="50" width= "50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   </div>
   
 </div>
