@@ -1,7 +1,7 @@
 ### Hello, my name is Lucas 👋
 
   👨‍💻
-- My goal is to become a backend developer, focusing on GO, mongoDB, Docker and PostgreSQL, but I'm always studying other languages
+- My goal is to become a backend developer, focusing on GO, mongoDB, Docker and PostgreSQL, but I'm always studying other languages.
 
 <div align="center">
   <a href="https://github.com/Ghenoo">
