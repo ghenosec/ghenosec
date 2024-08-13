@@ -8,5 +8,3 @@
   <img src="https://skillicons.dev/icons?i=git,vscode,go,js,ts,react,sass,prisma,bots,nodejs,docker,postman,vercel,mongodb,postgres," />
 </a>
   </div>
-  
-</div>
