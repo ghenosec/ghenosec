@@ -8,7 +8,7 @@
   <img src="https://skillicons.dev/icons?i=git,vscode,go,js,ts,react,sass,prisma,bots,nodejs,docker,postman,vercel,mongodb,postgres," />
 </a>
   <br />
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ghenoo&theme=transparent&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghenoo&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | [![GitHub Commits] (http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ghenoo&theme=transparent&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghenoo&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
   </div>
