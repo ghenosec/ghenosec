@@ -6,5 +6,12 @@
 <div align="center" >
 <a href="https://skillicons.dev"   >
   <img src="https://skillicons.dev/icons?i=git,ts,react,go,docker,mongodb,postgres," />
+
+<div>
+  - Studying in moment
+  <a href="https://skillicons.dev"   >
+    <img src="https://skillicons.dev/icons?i=prisma,tailwind,ts,react,nextjs" />
+  </a>
+</div>
 </a>
   </div>
