@@ -8,7 +8,7 @@
   <img src="https://skillicons.dev/icons?i=git,ts,react,go,docker,mongodb,postgres," />
 
 ### Studing in moment
-  <div align=left"> 
+  <div> 
   <a href="https://skillicons.dev"   >
     <img src="https://skillicons.dev/icons?i=prisma,tailwind,ts,react,nextjs" />
   </a>
