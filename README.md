@@ -7,8 +7,8 @@
 <a href="https://skillicons.dev"   >
   <img src="https://skillicons.dev/icons?i=git,ts,react,go,docker,mongodb,postgres," />
 
-## Studing in moment
-  <div align=center"> 
+### Studing in moment
+  <div align=leftr"> 
   <a href="https://skillicons.dev"   >
     <img src="https://skillicons.dev/icons?i=prisma,tailwind,ts,react,nextjs" />
   </a>
