@@ -8,10 +8,11 @@
   <img src="https://skillicons.dev/icons?i=git,ts,react,go,docker,mongodb,postgres," />
 
   <br>
-  
+  <div align=center"> 
   - Studying in moment
   <a href="https://skillicons.dev"   >
     <img src="https://skillicons.dev/icons?i=prisma,tailwind,ts,react,nextjs" />
+  </div>
   </a>
 </a>
   </div>
