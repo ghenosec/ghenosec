@@ -14,6 +14,7 @@
   <a href="https://skillicons.dev"   >
     <img src="https://skillicons.dev/icons?i=prisma,tailwind,ts,react,nextjs" />
   </a>
+##Streaks
     [![GitHub Streak](https://streak-stats.demolab.com?user=Ghenoo&theme=transparent&hide_border=true&border_radius=4.3)](https://git.io/streak-stats)
   </div>
  
