@@ -8,7 +8,7 @@
   <img src="https://skillicons.dev/icons?i=git,ts,react,go,docker,mongodb,postgres," />
 <br>
   <h3> 
-  Studying im moment
+  Studying in moment
   </h3> 
   <div>
   <a href="https://skillicons.dev"   >
