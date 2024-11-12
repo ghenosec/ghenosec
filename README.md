@@ -1,6 +1,6 @@
 ### Hello, my name is Lucas 👋
 
-- My goal is to become a backend developer, focusing on GO, mongoDB, Docker and PostgreSQL, but I'm always studying other languages.
+- My goal is to become a full stack developer, focusing on GO, Typescript, react, tailwind, prisma, mongoDB, Docker and PostgreSQL, but I'm always studying other languages.
 
 <div align="center" >
 <a href="https://skillicons.dev"   >
