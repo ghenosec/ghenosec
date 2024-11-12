@@ -11,7 +11,7 @@
   </h3> 
   <div>
   <a href="https://skillicons.dev"   >
-    <img src="https://skillicons.dev/icons?i=prisma,tailwind,ts,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=prisma,tailwind,ts,react,nextjs,go" />
   </a>
   </div>
 
