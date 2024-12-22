@@ -4,7 +4,7 @@
 
 <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,ts,react,go,docker,mongodb,postgres," />
+  <img src="https://skillicons.dev/icons?i=git,ts,react,nextjs,go,docker,mongodb,postgres," />
 <br>
   <h3> 
   Studying in moment
@@ -15,4 +15,4 @@
   </a>
   </div>
 
-![Gheno Streak](https://streak-stats.demolab.com?user=Ghenoo&theme=transparent&hide_border=true&border_radius=4.3)
+![Gheno Streak](https://streak-stats.demolab.com?user=ghenosec&theme=transparent&hide_border=true&border_radius=4.3)
