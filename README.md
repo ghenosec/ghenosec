@@ -1,13 +1,13 @@
-### Hello, my name is Lucas 👋
+### Eaae, meu nome é Lucas 👋
 
-- My goal is to become a full stack developer, focusing on GO, Typescript, react, tailwind, prisma, mongoDB, Docker and PostgreSQL, but I'm always studying other languages.
+-Meu atual objetivo é se tornar um Desenvolvedor Front End, focando em Typescript, react, tailwind, prisma, mongoDB, Docker and PostgreSQL, mas estou sempre estudando demais linguagens.
 
 <div align="center" >
 <a href="https://skillicons.dev"   >
   <img src="https://skillicons.dev/icons?i=git,ts,react,nextjs,go,docker,mongodb,postgres," />
 <br>
   <h3> 
-  Studying in moment
+  Estudando no momento
   </h3> 
   <div>
   <a href="https://skillicons.dev"   >
