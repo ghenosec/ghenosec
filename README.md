@@ -1,6 +1,6 @@
 ### Eaae, meu nome é Lucas 👋
 
-- Meu atual objetivo é se tornar um Desenvolvedor Front End, focando em Typescript, React, Tailwind e node, mas estou sempre estudando demais linguagens.
+- Meu atual objetivo é se tornar um Desenvolvedor WEB, focando em Typescript, React, Tailwind e node, mas estou sempre estudando demais linguagens.
 
 <div align="center" >
 <a href="https://skillicons.dev"   >
